@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "module": "CommonJS",
+    "jsx": "react",
+    "outDir": "/dist"
+  },
+}
